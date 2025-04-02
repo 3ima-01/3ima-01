@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <p>Python developer</p>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ima-01&show_icons=true&theme=radical)](https://github.com/3ima-01)
+</div>
 
-<!--
-**3ima-01/3ima-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологический стек
+| Язык/Технология | Описание |
+|-----------------|----------|
+| **Python** 🐍 | Основной язык разработки (FastAPI) |
+| **PostgreSQL** 🐘 | Реляционные БД с использованием SQLAlchemy/Alembic |
+| **RabbitMQ** 🐇 | Построение очередей сообщений и асинхронных задач |
+| **Docker** 🐳 | Контейнеризация приложений |
+| **SQLAlchemy** | ORM для работы с базами данных |
